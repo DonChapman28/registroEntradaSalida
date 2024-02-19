@@ -1,0 +1,16 @@
+{
+  "entrada":[
+    {
+      "id": 1,
+      "fecha": 1,
+      "hora":1
+    }
+  ],
+  "salida":[
+    {
+      "id": 1,
+      "fecha": 1,
+      "hora" : 1
+    }
+  ]
+}
